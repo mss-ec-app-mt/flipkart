@@ -1,4 +1,9 @@
 .classpath
 .project
+<<<<<<< HEAD
 /node_modules
    
+=======
+deploy.
+/node_modules
+>>>>>>> development
